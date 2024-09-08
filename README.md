@@ -1,5 +1,5 @@
 ### About Me
-I am a PhD student in the Electrical and Computer Engineering Department at the University of Utah. I work on designing distributed optimization and reinforcement learning algorithms within the Energy, Control and Optimization (ECO) Lab under Prof. Mingxi Liu. The goal of my work is to provide critical technology development for the energy transition, whether it is optimally coordinating PV inverters or scheduling EV charging to facilitate overnight "valley filling," with a focus on scalability and privacy.
+I am a PhD student in the Electrical and Computer Engineering Department at the University of Utah. I work on designing distributed optimization and reinforcement learning algorithms in the Energy, Control and Optimization (ECO) Lab under Prof. Mingxi Liu. The goal of my work is to provide critical technology development for the energy transition, whether it is optimally coordinating PV inverters or scheduling EV charging to facilitate overnight "valley filling." 
 
 <!--
 **ble1gh/ble1gh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
